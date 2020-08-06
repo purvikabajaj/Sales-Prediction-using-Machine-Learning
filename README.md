@@ -1,1 +1,1 @@
-# Sales-Prediction-using-various-Machine-Learning-Algorithms
+# Sales-Prediction-using-Machine-Learning
